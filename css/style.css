@@ -25,7 +25,7 @@ a:hover{
 }   
 .hero{
      height: 230px;
-     background-image: url(./img/pic.jpg);
+     background-image: url(../img/pic.jpg);
      background-position: center;
      background-size: cover;
      max-width: 1300px;
